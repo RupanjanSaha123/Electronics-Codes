@@ -55,7 +55,7 @@ It helps me:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/electronics-code.git
+   git clone https://github.com/RupanjanSaha123/electronics-code.git
 
 2.Open the project folder you’re interested in
 
